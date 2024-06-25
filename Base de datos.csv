@@ -1,4 +1,4 @@
-N� clientes,ID del solicitante,Edad,Ingresos anuales,Historial crediticio, Monto del pr�stamo solicitado ,Plazo del pr�stamo,N�mero de cr�ditos previos,Empleo,Tasa de inter�s del pr�stamo,Y
+N_clientes,ID_solicitante,Edad,Ingresos_anuales,Historial_crediticio, Monto_prestamo_solicitado ,Plazo_prestamo,Numero_creditos_previos,Empleo,Tasa_interes_prestamo,Y
 1,1001,45,7848939,1,7938810,15,3,0,0.36,1
 2,1002,35,11533695,0,6549042,16,4,1,0.35,0
 3,1003,23,29325941,0,5338139,3,2,2,0.3,0
