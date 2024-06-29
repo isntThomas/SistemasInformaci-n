@@ -1,4 +1,4 @@
-NClientes,IDSolicitante,Edad,IngresosA,HistorialCrediticio, PrestamoSolicitado ,PlazoPrestamo,NCreditosPrev,Empleo,TasaInteres,Y
+NClientes,IDSolicitante,Edad,IngresosA,HistorialCrediticio,PrestamoSolicitado,PlazoPrestamo,NCreditosPrev,Empleo,TasaInteres,Y
 1,1001,45,7848939,1,7938810,15,3,0,0.36,1
 2,1002,35,11533695,0,6549042,16,4,1,0.35,0
 3,1003,23,29325941,0,5338139,3,2,2,0.3,0
